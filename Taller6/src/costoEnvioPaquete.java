@@ -1,11 +1,3 @@
-/***
- * Costo de envío de paquetes Un servicio de envío cobra diferentes 
- * tarifas según la región y el peso del paquete. Si el peso es menor 
- * de 5 kg y la región es "local", el costo es de $5. Si pesa entre 
- * 5 y 10 kg, el costo es de $10 para la región "nacional". Para 
- * cualquier otro caso, el costo es de $15.
- * @author hp
- */
 import java.util.Scanner;
 public class costoEnvioPaquete {
     public static void main(String[] args) {

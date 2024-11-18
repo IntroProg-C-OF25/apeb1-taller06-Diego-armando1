@@ -1,11 +1,3 @@
-/***
- * Convertir un número de mes a nombre. Dado un número 
- * del 1 al 12, que representa un mes del año, muestra 
- * el nombre del mes correspondiente. Por ejemplo, si 
- * el usuario ingresa 1, debe mostrar "Enero"; si 
- * ingresa 2, debe mostrar "Febrero", y así sucesivamente.
- * @author hp
- */
 import java.util.Scanner;
 public class conversionNumero {
     public static void main(String[] args) {
